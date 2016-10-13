@@ -1,0 +1,13 @@
+***************************README For Kroll Bond Rating Agency Bowling Program***************************
+Jim Greene
+Submitted 8 August 2016
+
+
+Unit test is available at test\ScoreTest.php
+To run in browser:
+
+run.php?rolls=[Input string of rolls]
+
+To run on Terminal:
+
+php run.php [Input string of rolls, no spaces or quotes]
